@@ -12,7 +12,7 @@
         android:label="Wi-Finder"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyBV5mPExKm2pjdel5-8tqGChUWy7vCMMOw"/>
+               android:value=""/> <!--add your own api key -->
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
