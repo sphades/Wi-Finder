@@ -1,3 +1,4 @@
+![alt text](https://github.com/sphades/Wi-Finder/blob/master/Header.jpg)
 # Wi-Finder
 By Team TeddyBack
 
