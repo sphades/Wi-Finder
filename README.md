@@ -1,5 +1,4 @@
 ![alt text](https://github.com/sphades/Wi-Finder/blob/master/Header.jpg)
-# Wi-Finder
 By Team TeddyBack
 
 Wi-Finder is a flutter mobile application that aims to aid users in finding the nearest available free Wi-Fi hotspot from Wireless@SG
