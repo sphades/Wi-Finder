@@ -8,5 +8,5 @@ Wi-Finder is a flutter mobile application that aims to aid users in finding the 
 - See other users reviews on the quality of the hotspot
 - Direction to your selected hotspot
 
-Screenshots 
+# Screenshots 
 https://github.com/sphades/Wi-Finder/blob/master/Final%20Presentation.pdf
